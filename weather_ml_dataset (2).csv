@@ -1,0 +1,7 @@
+City,Temperature_C,Feels_Like_C,Humidity_%,Pressure_hPa,Wind_Speed_m_s,Weather_Condition
+Delhi,30.46,35.66,68,999,0.58,Rain
+Mumbai,27.93,32.08,81,1007,7.23,Rain
+Bangalore,22.16,22.65,85,1011,5.35,Clouds
+Kolkata,26.72,30.12,92,1003,1.78,Rain
+Chennai,28.94,35.68,85,1006,4.59,Rain
+Indore,23.83,24.67,92,1005,2.86,Clouds
